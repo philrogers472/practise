@@ -1,2 +1,6 @@
 im bored
+<<<<<<< HEAD
 whats wrong with this file
+=======
+what to do now its not working
+>>>>>>> 8fb169ceda206f856147df740c081f794d721539
